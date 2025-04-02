@@ -10,7 +10,6 @@ html{
     font-family: 'Roboto', sans-serif;
 }
 
-
 .container{
     width: 90%;
     margin: 0 auto;
@@ -52,8 +51,7 @@ html{
 
 .bg{
     width: 100%;
-    background-color: rgba(0,0,0,.5);#
-    
+    background-color: rgba(0,0,0,.5);
 }
 
 .bg-top, .bg-bottom{
@@ -67,19 +65,18 @@ html{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    
 }
 
 .container .pa{
-    background-image: url("../img/paris.jpg");
+    background-image: url("../img/munkebo.jpg");
 }
 
 .container .ist{
-    background-image: url("../img/istanbul.jpg");
+    background-image: url("../img/aarhus.jpg");
 }
 
 .container .fir{
-    background-image: url("../img/firenze.jpg");
+    background-image: url("../img/odense.jpg");
 }
 
 .container .hol{
